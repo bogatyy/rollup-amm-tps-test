@@ -21,7 +21,7 @@ The overall **TPS (transactions per second)** is calculated by dividing the tota
 
 ### Polygon zkEVM Results
 - From 100 different accounts, 20 V2-swaps were sent by each in parallel
-- We used the paid version of WS API on DRPC, as the fastest we could find https://chainlist.org/chain/1101
+- We have not been able to find an official Polygon zkEVM WS RPC. Thus, we used the paid version of WS API on dRPC.org, as the fastest we could find https://chainlist.org/chain/1101
 - 2000 transactions total, split across 10 IP addresses to avoid RPC limits
 - It took 372s for all transactions to be included with relatively steady TPS of **5.4 tx/s**
 - On-chain data: 131 blocks from [13686722](https://zkevm.polygonscan.com/block/13686722) to [13686852](https://zkevm.polygonscan.com/block/13686852) are almost exclusively our swaps
