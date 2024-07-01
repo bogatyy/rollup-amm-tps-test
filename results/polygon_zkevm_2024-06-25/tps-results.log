@@ -1,0 +1,132 @@
+TPS: 5.38 txs/s (2000 txs in 372s)
+Block #13686722 with ts=1719345599 | all_txs_in_block=  10, our_txs_in_block=   9, ~tx_sent_by_that_time=1944, cum_txs_confirmed=   9, cum_elapsed_secs=  0 | cum_tps=-
+Block #13686723 with ts=1719345602 | all_txs_in_block=   3, our_txs_in_block=   3, ~tx_sent_by_that_time=2000, cum_txs_confirmed=  12, cum_elapsed_secs=  3 | cum_tps=4.00
+Block #13686724 with ts=1719345603 | all_txs_in_block=  28, our_txs_in_block=  28, ~tx_sent_by_that_time=2000, cum_txs_confirmed=  40, cum_elapsed_secs=  4 | cum_tps=10.00
+Block #13686725 with ts=1719345610 | all_txs_in_block=   3, our_txs_in_block=   3, ~tx_sent_by_that_time=2000, cum_txs_confirmed=  43, cum_elapsed_secs= 11 | cum_tps=3.91
+Block #13686726 with ts=1719345613 | all_txs_in_block=  26, our_txs_in_block=  26, ~tx_sent_by_that_time=2000, cum_txs_confirmed=  69, cum_elapsed_secs= 14 | cum_tps=4.93
+Block #13686727 with ts=1719345616 | all_txs_in_block=   5, our_txs_in_block=   5, ~tx_sent_by_that_time=2000, cum_txs_confirmed=  74, cum_elapsed_secs= 17 | cum_tps=4.35
+Block #13686728 with ts=1719345618 | all_txs_in_block=  27, our_txs_in_block=  27, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 101, cum_elapsed_secs= 19 | cum_tps=5.32
+Block #13686729 with ts=1719345621 | all_txs_in_block=   4, our_txs_in_block=   4, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 105, cum_elapsed_secs= 22 | cum_tps=4.77
+Block #13686730 with ts=1719345624 | all_txs_in_block=  27, our_txs_in_block=  27, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 132, cum_elapsed_secs= 25 | cum_tps=5.28
+Block #13686731 with ts=1719345627 | all_txs_in_block=   4, our_txs_in_block=   4, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 136, cum_elapsed_secs= 28 | cum_tps=4.86
+Block #13686732 with ts=1719345629 | all_txs_in_block=  28, our_txs_in_block=  28, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 164, cum_elapsed_secs= 30 | cum_tps=5.47
+Block #13686733 with ts=1719345633 | all_txs_in_block=   3, our_txs_in_block=   3, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 167, cum_elapsed_secs= 34 | cum_tps=4.91
+Block #13686734 with ts=1719345635 | all_txs_in_block=  28, our_txs_in_block=  28, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 195, cum_elapsed_secs= 36 | cum_tps=5.42
+Block #13686735 with ts=1719345638 | all_txs_in_block=   3, our_txs_in_block=   3, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 198, cum_elapsed_secs= 39 | cum_tps=5.08
+Block #13686736 with ts=1719345641 | all_txs_in_block=  26, our_txs_in_block=  26, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 224, cum_elapsed_secs= 42 | cum_tps=5.33
+Block #13686737 with ts=1719345644 | all_txs_in_block=   5, our_txs_in_block=   5, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 229, cum_elapsed_secs= 45 | cum_tps=5.09
+Block #13686738 with ts=1719345646 | all_txs_in_block=  28, our_txs_in_block=  27, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 256, cum_elapsed_secs= 47 | cum_tps=5.45
+Block #13686739 with ts=1719345649 | all_txs_in_block=   4, our_txs_in_block=   4, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 260, cum_elapsed_secs= 50 | cum_tps=5.20
+Block #13686740 with ts=1719345652 | all_txs_in_block=  25, our_txs_in_block=  24, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 284, cum_elapsed_secs= 53 | cum_tps=5.36
+Block #13686741 with ts=1719345655 | all_txs_in_block=   5, our_txs_in_block=   5, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 289, cum_elapsed_secs= 56 | cum_tps=5.16
+Block #13686742 with ts=1719345657 | all_txs_in_block=  26, our_txs_in_block=  26, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 315, cum_elapsed_secs= 58 | cum_tps=5.43
+Block #13686743 with ts=1719345660 | all_txs_in_block=   5, our_txs_in_block=   5, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 320, cum_elapsed_secs= 61 | cum_tps=5.25
+Block #13686744 with ts=1719345663 | all_txs_in_block=  27, our_txs_in_block=  25, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 345, cum_elapsed_secs= 64 | cum_tps=5.39
+Block #13686745 with ts=1719345666 | all_txs_in_block=   6, our_txs_in_block=   6, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 351, cum_elapsed_secs= 67 | cum_tps=5.24
+Block #13686746 with ts=1719345669 | all_txs_in_block=  26, our_txs_in_block=  26, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 377, cum_elapsed_secs= 70 | cum_tps=5.39
+Block #13686747 with ts=1719345672 | all_txs_in_block=   5, our_txs_in_block=   5, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 382, cum_elapsed_secs= 73 | cum_tps=5.23
+Block #13686748 with ts=1719345675 | all_txs_in_block=  26, our_txs_in_block=  25, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 407, cum_elapsed_secs= 76 | cum_tps=5.36
+Block #13686749 with ts=1719345678 | all_txs_in_block=   6, our_txs_in_block=   6, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 413, cum_elapsed_secs= 79 | cum_tps=5.23
+Block #13686750 with ts=1719345680 | all_txs_in_block=  28, our_txs_in_block=  27, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 440, cum_elapsed_secs= 81 | cum_tps=5.43
+Block #13686751 with ts=1719345683 | all_txs_in_block=   4, our_txs_in_block=   4, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 444, cum_elapsed_secs= 84 | cum_tps=5.29
+Block #13686752 with ts=1719345686 | all_txs_in_block=  26, our_txs_in_block=  26, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 470, cum_elapsed_secs= 87 | cum_tps=5.40
+Block #13686753 with ts=1719345689 | all_txs_in_block=   5, our_txs_in_block=   5, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 475, cum_elapsed_secs= 90 | cum_tps=5.28
+Block #13686754 with ts=1719345692 | all_txs_in_block=  26, our_txs_in_block=  25, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 500, cum_elapsed_secs= 93 | cum_tps=5.38
+Block #13686755 with ts=1719345695 | all_txs_in_block=   6, our_txs_in_block=   6, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 506, cum_elapsed_secs= 96 | cum_tps=5.27
+Block #13686756 with ts=1719345697 | all_txs_in_block=  26, our_txs_in_block=  26, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 532, cum_elapsed_secs= 98 | cum_tps=5.43
+Block #13686757 with ts=1719345700 | all_txs_in_block=   5, our_txs_in_block=   5, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 537, cum_elapsed_secs=101 | cum_tps=5.32
+Block #13686758 with ts=1719345703 | all_txs_in_block=  28, our_txs_in_block=  28, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 565, cum_elapsed_secs=104 | cum_tps=5.43
+Block #13686759 with ts=1719345706 | all_txs_in_block=   3, our_txs_in_block=   3, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 568, cum_elapsed_secs=107 | cum_tps=5.31
+Block #13686760 with ts=1719345708 | all_txs_in_block=  26, our_txs_in_block=  26, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 594, cum_elapsed_secs=109 | cum_tps=5.45
+Block #13686761 with ts=1719345711 | all_txs_in_block=   5, our_txs_in_block=   5, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 599, cum_elapsed_secs=112 | cum_tps=5.35
+Block #13686762 with ts=1719345714 | all_txs_in_block=  28, our_txs_in_block=  28, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 627, cum_elapsed_secs=115 | cum_tps=5.45
+Block #13686763 with ts=1719345717 | all_txs_in_block=   3, our_txs_in_block=   3, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 630, cum_elapsed_secs=118 | cum_tps=5.34
+Block #13686764 with ts=1719345719 | all_txs_in_block=  28, our_txs_in_block=  28, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 658, cum_elapsed_secs=120 | cum_tps=5.48
+Block #13686765 with ts=1719345722 | all_txs_in_block=   3, our_txs_in_block=   3, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 661, cum_elapsed_secs=123 | cum_tps=5.37
+Block #13686766 with ts=1719345725 | all_txs_in_block=  27, our_txs_in_block=  27, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 688, cum_elapsed_secs=126 | cum_tps=5.46
+Block #13686767 with ts=1719345728 | all_txs_in_block=   4, our_txs_in_block=   4, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 692, cum_elapsed_secs=129 | cum_tps=5.36
+Block #13686768 with ts=1719345731 | all_txs_in_block=  28, our_txs_in_block=  28, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 720, cum_elapsed_secs=132 | cum_tps=5.45
+Block #13686769 with ts=1719345734 | all_txs_in_block=   3, our_txs_in_block=   3, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 723, cum_elapsed_secs=135 | cum_tps=5.36
+Block #13686770 with ts=1719345736 | all_txs_in_block=  28, our_txs_in_block=  28, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 751, cum_elapsed_secs=137 | cum_tps=5.48
+Block #13686771 with ts=1719345739 | all_txs_in_block=   4, our_txs_in_block=   4, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 755, cum_elapsed_secs=140 | cum_tps=5.39
+Block #13686772 with ts=1719345742 | all_txs_in_block=  26, our_txs_in_block=  26, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 781, cum_elapsed_secs=143 | cum_tps=5.46
+Block #13686773 with ts=1719345745 | all_txs_in_block=   5, our_txs_in_block=   5, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 786, cum_elapsed_secs=146 | cum_tps=5.38
+Block #13686774 with ts=1719345747 | all_txs_in_block=  29, our_txs_in_block=  27, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 813, cum_elapsed_secs=148 | cum_tps=5.49
+Block #13686775 with ts=1719345750 | all_txs_in_block=   4, our_txs_in_block=   3, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 816, cum_elapsed_secs=151 | cum_tps=5.40
+Block #13686776 with ts=1719345753 | all_txs_in_block=  27, our_txs_in_block=  26, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 842, cum_elapsed_secs=154 | cum_tps=5.47
+Block #13686777 with ts=1719345756 | all_txs_in_block=   4, our_txs_in_block=   4, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 846, cum_elapsed_secs=157 | cum_tps=5.39
+Block #13686778 with ts=1719345759 | all_txs_in_block=  27, our_txs_in_block=  27, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 873, cum_elapsed_secs=160 | cum_tps=5.46
+Block #13686779 with ts=1719345762 | all_txs_in_block=   4, our_txs_in_block=   4, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 877, cum_elapsed_secs=163 | cum_tps=5.38
+Block #13686780 with ts=1719345764 | all_txs_in_block=  29, our_txs_in_block=  29, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 906, cum_elapsed_secs=165 | cum_tps=5.49
+Block #13686781 with ts=1719345767 | all_txs_in_block=   2, our_txs_in_block=   2, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 908, cum_elapsed_secs=168 | cum_tps=5.40
+Block #13686782 with ts=1719345770 | all_txs_in_block=  29, our_txs_in_block=  29, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 937, cum_elapsed_secs=171 | cum_tps=5.48
+Block #13686783 with ts=1719345773 | all_txs_in_block=   2, our_txs_in_block=   2, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 939, cum_elapsed_secs=174 | cum_tps=5.40
+Block #13686784 with ts=1719345776 | all_txs_in_block=  30, our_txs_in_block=  29, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 968, cum_elapsed_secs=177 | cum_tps=5.47
+Block #13686785 with ts=1719345779 | all_txs_in_block=   2, our_txs_in_block=   2, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 970, cum_elapsed_secs=180 | cum_tps=5.39
+Block #13686786 with ts=1719345781 | all_txs_in_block=  27, our_txs_in_block=  27, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 997, cum_elapsed_secs=182 | cum_tps=5.48
+Block #13686787 with ts=1719345784 | all_txs_in_block=   4, our_txs_in_block=   4, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1001, cum_elapsed_secs=185 | cum_tps=5.41
+Block #13686788 with ts=1719345787 | all_txs_in_block=  29, our_txs_in_block=  29, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1030, cum_elapsed_secs=188 | cum_tps=5.48
+Block #13686789 with ts=1719345790 | all_txs_in_block=   2, our_txs_in_block=   2, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1032, cum_elapsed_secs=191 | cum_tps=5.40
+Block #13686790 with ts=1719345793 | all_txs_in_block=  28, our_txs_in_block=  28, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1060, cum_elapsed_secs=194 | cum_tps=5.46
+Block #13686791 with ts=1719345796 | all_txs_in_block=   3, our_txs_in_block=   3, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1063, cum_elapsed_secs=197 | cum_tps=5.40
+Block #13686792 with ts=1719345798 | all_txs_in_block=  29, our_txs_in_block=  29, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1092, cum_elapsed_secs=199 | cum_tps=5.49
+Block #13686793 with ts=1719345802 | all_txs_in_block=   2, our_txs_in_block=   2, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1094, cum_elapsed_secs=203 | cum_tps=5.39
+Block #13686794 with ts=1719345804 | all_txs_in_block=  30, our_txs_in_block=  30, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1124, cum_elapsed_secs=205 | cum_tps=5.48
+Block #13686795 with ts=1719345807 | all_txs_in_block=   1, our_txs_in_block=   1, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1125, cum_elapsed_secs=208 | cum_tps=5.41
+Block #13686796 with ts=1719345810 | all_txs_in_block=  28, our_txs_in_block=  28, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1153, cum_elapsed_secs=211 | cum_tps=5.46
+Block #13686797 with ts=1719345813 | all_txs_in_block=   4, our_txs_in_block=   4, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1157, cum_elapsed_secs=214 | cum_tps=5.41
+Block #13686798 with ts=1719345816 | all_txs_in_block=  29, our_txs_in_block=  29, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1186, cum_elapsed_secs=217 | cum_tps=5.47
+Block #13686799 with ts=1719345819 | all_txs_in_block=   2, our_txs_in_block=   2, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1188, cum_elapsed_secs=220 | cum_tps=5.40
+Block #13686800 with ts=1719345822 | all_txs_in_block=  30, our_txs_in_block=  29, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1217, cum_elapsed_secs=223 | cum_tps=5.46
+Block #13686801 with ts=1719345825 | all_txs_in_block=   2, our_txs_in_block=   2, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1219, cum_elapsed_secs=226 | cum_tps=5.39
+Block #13686802 with ts=1719345827 | all_txs_in_block=  29, our_txs_in_block=  29, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1248, cum_elapsed_secs=228 | cum_tps=5.47
+Block #13686803 with ts=1719345830 | all_txs_in_block=   2, our_txs_in_block=   2, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1250, cum_elapsed_secs=231 | cum_tps=5.41
+Block #13686804 with ts=1719345833 | all_txs_in_block=  29, our_txs_in_block=  29, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1279, cum_elapsed_secs=234 | cum_tps=5.47
+Block #13686805 with ts=1719345836 | all_txs_in_block=   2, our_txs_in_block=   2, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1281, cum_elapsed_secs=237 | cum_tps=5.41
+Block #13686806 with ts=1719345839 | all_txs_in_block=  29, our_txs_in_block=  29, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1310, cum_elapsed_secs=240 | cum_tps=5.46
+Block #13686807 with ts=1719345842 | all_txs_in_block=   2, our_txs_in_block=   2, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1312, cum_elapsed_secs=243 | cum_tps=5.40
+Block #13686808 with ts=1719345844 | all_txs_in_block=  29, our_txs_in_block=  28, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1340, cum_elapsed_secs=245 | cum_tps=5.47
+Block #13686809 with ts=1719345847 | all_txs_in_block=   3, our_txs_in_block=   3, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1343, cum_elapsed_secs=248 | cum_tps=5.42
+Block #13686810 with ts=1719345850 | all_txs_in_block=  30, our_txs_in_block=  30, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1373, cum_elapsed_secs=251 | cum_tps=5.47
+Block #13686811 with ts=1719345853 | all_txs_in_block=   1, our_txs_in_block=   1, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1374, cum_elapsed_secs=254 | cum_tps=5.41
+Block #13686812 with ts=1719345856 | all_txs_in_block=  29, our_txs_in_block=  29, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1403, cum_elapsed_secs=257 | cum_tps=5.46
+Block #13686813 with ts=1719345859 | all_txs_in_block=   2, our_txs_in_block=   2, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1405, cum_elapsed_secs=260 | cum_tps=5.40
+Block #13686814 with ts=1719345862 | all_txs_in_block=  29, our_txs_in_block=  29, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1434, cum_elapsed_secs=263 | cum_tps=5.45
+Block #13686815 with ts=1719345865 | all_txs_in_block=   2, our_txs_in_block=   2, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1436, cum_elapsed_secs=266 | cum_tps=5.40
+Block #13686816 with ts=1719345868 | all_txs_in_block=  28, our_txs_in_block=  28, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1464, cum_elapsed_secs=269 | cum_tps=5.44
+Block #13686817 with ts=1719345871 | all_txs_in_block=   3, our_txs_in_block=   3, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1467, cum_elapsed_secs=272 | cum_tps=5.39
+Block #13686818 with ts=1719345873 | all_txs_in_block=  28, our_txs_in_block=  28, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1495, cum_elapsed_secs=274 | cum_tps=5.46
+Block #13686819 with ts=1719345876 | all_txs_in_block=   3, our_txs_in_block=   3, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1498, cum_elapsed_secs=277 | cum_tps=5.41
+Block #13686820 with ts=1719345879 | all_txs_in_block=  29, our_txs_in_block=  29, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1527, cum_elapsed_secs=280 | cum_tps=5.45
+Block #13686821 with ts=1719345882 | all_txs_in_block=   2, our_txs_in_block=   2, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1529, cum_elapsed_secs=283 | cum_tps=5.40
+Block #13686822 with ts=1719345885 | all_txs_in_block=  28, our_txs_in_block=  28, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1557, cum_elapsed_secs=286 | cum_tps=5.44
+Block #13686823 with ts=1719345888 | all_txs_in_block=   3, our_txs_in_block=   3, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1560, cum_elapsed_secs=289 | cum_tps=5.40
+Block #13686824 with ts=1719345890 | all_txs_in_block=  28, our_txs_in_block=  28, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1588, cum_elapsed_secs=291 | cum_tps=5.46
+Block #13686825 with ts=1719345894 | all_txs_in_block=   3, our_txs_in_block=   3, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1591, cum_elapsed_secs=295 | cum_tps=5.39
+Block #13686826 with ts=1719345896 | all_txs_in_block=  30, our_txs_in_block=  30, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1621, cum_elapsed_secs=297 | cum_tps=5.46
+Block #13686827 with ts=1719345899 | all_txs_in_block=   1, our_txs_in_block=   1, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1622, cum_elapsed_secs=300 | cum_tps=5.41
+Block #13686828 with ts=1719345902 | all_txs_in_block=  29, our_txs_in_block=  27, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1649, cum_elapsed_secs=303 | cum_tps=5.44
+Block #13686829 with ts=1719345905 | all_txs_in_block=   4, our_txs_in_block=   4, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1653, cum_elapsed_secs=306 | cum_tps=5.40
+Block #13686830 with ts=1719345908 | all_txs_in_block=  28, our_txs_in_block=  28, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1681, cum_elapsed_secs=309 | cum_tps=5.44
+Block #13686831 with ts=1719345911 | all_txs_in_block=   3, our_txs_in_block=   3, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1684, cum_elapsed_secs=312 | cum_tps=5.40
+Block #13686832 with ts=1719345913 | all_txs_in_block=  27, our_txs_in_block=  27, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1711, cum_elapsed_secs=314 | cum_tps=5.45
+Block #13686833 with ts=1719345916 | all_txs_in_block=   4, our_txs_in_block=   4, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1715, cum_elapsed_secs=317 | cum_tps=5.41
+Block #13686834 with ts=1719345919 | all_txs_in_block=  29, our_txs_in_block=  29, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1744, cum_elapsed_secs=320 | cum_tps=5.45
+Block #13686835 with ts=1719345922 | all_txs_in_block=   2, our_txs_in_block=   2, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1746, cum_elapsed_secs=323 | cum_tps=5.41
+Block #13686836 with ts=1719345925 | all_txs_in_block=  22, our_txs_in_block=  20, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1766, cum_elapsed_secs=326 | cum_tps=5.42
+Block #13686837 with ts=1719345928 | all_txs_in_block=   8, our_txs_in_block=   8, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1774, cum_elapsed_secs=329 | cum_tps=5.39
+Block #13686838 with ts=1719345930 | all_txs_in_block=  28, our_txs_in_block=  28, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1802, cum_elapsed_secs=331 | cum_tps=5.44
+Block #13686839 with ts=1719345933 | all_txs_in_block=   3, our_txs_in_block=   3, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1805, cum_elapsed_secs=334 | cum_tps=5.40
+Block #13686840 with ts=1719345936 | all_txs_in_block=  29, our_txs_in_block=  28, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1833, cum_elapsed_secs=337 | cum_tps=5.44
+Block #13686841 with ts=1719345939 | all_txs_in_block=   3, our_txs_in_block=   3, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1836, cum_elapsed_secs=340 | cum_tps=5.40
+Block #13686842 with ts=1719345942 | all_txs_in_block=  28, our_txs_in_block=  28, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1864, cum_elapsed_secs=343 | cum_tps=5.43
+Block #13686843 with ts=1719345945 | all_txs_in_block=   4, our_txs_in_block=   4, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1868, cum_elapsed_secs=346 | cum_tps=5.40
+Block #13686844 with ts=1719345948 | all_txs_in_block=  28, our_txs_in_block=  28, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1896, cum_elapsed_secs=349 | cum_tps=5.43
+Block #13686845 with ts=1719345951 | all_txs_in_block=   3, our_txs_in_block=   3, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1899, cum_elapsed_secs=352 | cum_tps=5.39
+Block #13686846 with ts=1719345953 | all_txs_in_block=  28, our_txs_in_block=  28, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1927, cum_elapsed_secs=354 | cum_tps=5.44
+Block #13686847 with ts=1719345957 | all_txs_in_block=   3, our_txs_in_block=   3, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1930, cum_elapsed_secs=358 | cum_tps=5.39
+Block #13686848 with ts=1719345959 | all_txs_in_block=  27, our_txs_in_block=  27, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1957, cum_elapsed_secs=360 | cum_tps=5.44
+Block #13686849 with ts=1719345962 | all_txs_in_block=   4, our_txs_in_block=   4, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1961, cum_elapsed_secs=363 | cum_tps=5.40
+Block #13686850 with ts=1719345965 | all_txs_in_block=  27, our_txs_in_block=  27, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1988, cum_elapsed_secs=366 | cum_tps=5.43
+Block #13686851 with ts=1719345968 | all_txs_in_block=   4, our_txs_in_block=   4, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1992, cum_elapsed_secs=369 | cum_tps=5.40
+Block #13686852 with ts=1719345971 | all_txs_in_block=  25, our_txs_in_block=   8, ~tx_sent_by_that_time=2000, cum_txs_confirmed=2000, cum_elapsed_secs=372 | cum_tps=5.38

@@ -1,0 +1,13 @@
+TPS: 181.82 txs/s (2000 txs in 11s)
+Block #36612893 with ts=1718424299 | all_txs_in_block=   5, our_txs_in_block=   1, ~tx_sent_by_that_time=1936, cum_txs_confirmed=   1, cum_elapsed_secs=  0 | cum_tps=-
+Block #36612894 with ts=1718424300 | all_txs_in_block=  54, our_txs_in_block=  54, ~tx_sent_by_that_time=2000, cum_txs_confirmed=  55, cum_elapsed_secs=  1 | cum_tps=55.00
+Block #36612895 with ts=1718424301 | all_txs_in_block= 212, our_txs_in_block= 212, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 267, cum_elapsed_secs=  2 | cum_tps=133.50
+Block #36612896 with ts=1718424302 | all_txs_in_block= 185, our_txs_in_block= 185, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 452, cum_elapsed_secs=  3 | cum_tps=150.67
+Block #36612897 with ts=1718424303 | all_txs_in_block= 195, our_txs_in_block= 195, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 647, cum_elapsed_secs=  4 | cum_tps=161.75
+Block #36612898 with ts=1718424304 | all_txs_in_block= 219, our_txs_in_block= 219, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 866, cum_elapsed_secs=  5 | cum_tps=173.20
+Block #36612899 with ts=1718424305 | all_txs_in_block= 210, our_txs_in_block= 210, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1076, cum_elapsed_secs=  6 | cum_tps=179.33
+Block #36612900 with ts=1718424306 | all_txs_in_block= 218, our_txs_in_block= 218, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1294, cum_elapsed_secs=  7 | cum_tps=184.86
+Block #36612901 with ts=1718424307 | all_txs_in_block= 217, our_txs_in_block= 217, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1511, cum_elapsed_secs=  8 | cum_tps=188.88
+Block #36612902 with ts=1718424308 | all_txs_in_block= 164, our_txs_in_block= 164, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1675, cum_elapsed_secs=  9 | cum_tps=186.11
+Block #36612903 with ts=1718424309 | all_txs_in_block= 187, our_txs_in_block= 187, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1862, cum_elapsed_secs= 10 | cum_tps=186.20
+Block #36612904 with ts=1718424310 | all_txs_in_block= 188, our_txs_in_block= 138, ~tx_sent_by_that_time=2000, cum_txs_confirmed=2000, cum_elapsed_secs= 11 | cum_tps=181.82

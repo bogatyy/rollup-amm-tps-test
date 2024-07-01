@@ -1,0 +1,9 @@
+TPS: 142.86 txs/s (2000 txs in 14s)
+Block #121963262 with ts=1719525301 | all_txs_in_block=  42, our_txs_in_block=  23, ~tx_sent_by_that_time=1949, cum_txs_confirmed=  23, cum_elapsed_secs=  0 | cum_tps=-
+Block #121963263 with ts=1719525303 | all_txs_in_block= 291, our_txs_in_block= 289, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 312, cum_elapsed_secs=  2 | cum_tps=156.00
+Block #121963264 with ts=1719525305 | all_txs_in_block= 295, our_txs_in_block= 289, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 601, cum_elapsed_secs=  4 | cum_tps=150.25
+Block #121963265 with ts=1719525307 | all_txs_in_block= 295, our_txs_in_block= 289, ~tx_sent_by_that_time=2000, cum_txs_confirmed= 890, cum_elapsed_secs=  6 | cum_tps=148.33
+Block #121963266 with ts=1719525309 | all_txs_in_block= 295, our_txs_in_block= 288, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1178, cum_elapsed_secs=  8 | cum_tps=147.25
+Block #121963267 with ts=1719525311 | all_txs_in_block= 295, our_txs_in_block= 283, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1461, cum_elapsed_secs= 10 | cum_tps=146.10
+Block #121963268 with ts=1719525313 | all_txs_in_block= 291, our_txs_in_block= 289, ~tx_sent_by_that_time=2000, cum_txs_confirmed=1750, cum_elapsed_secs= 12 | cum_tps=145.83
+Block #121963269 with ts=1719525315 | all_txs_in_block= 259, our_txs_in_block= 250, ~tx_sent_by_that_time=2000, cum_txs_confirmed=2000, cum_elapsed_secs= 14 | cum_tps=142.86
